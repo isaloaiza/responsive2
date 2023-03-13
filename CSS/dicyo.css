@@ -420,11 +420,14 @@ span{
 
 @media (max-width: 480px) {
     body{
-        width: 110%;
+        width: 105%;
     }
 
     .navbar{
-        width: 135%;
+        width: 105%;
+    }
+    .nav-links li{
+        gap: 2px;
     }
 
     a{
@@ -446,6 +449,12 @@ span{
     .pdr{
         display: block; 
         margin-left: 100px;
+    }
+    .nose1{
+        width: 250px;
+    }
+    .footer{
+        font-size: 10px;
     }
 
 }
