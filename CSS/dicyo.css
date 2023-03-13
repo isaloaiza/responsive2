@@ -420,11 +420,11 @@ span{
 
 @media (max-width: 480px) {
     body{
-        width: 105%;
+        width: 115%;
     }
 
     .navbar{
-        width: 105%;
+        width: 115%;
     }
     .nav-links li{
         gap: 2px;
